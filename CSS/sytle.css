@@ -1,0 +1,46 @@
+body
+{
+    background: rgb(0,0,0);
+}
+.items
+{
+    background-color: inherit;
+    border: 2px  solid;
+    border-color: #0B5ED7;
+    color: rgb(11, 94, 215);
+    box-shadow: 30px 40px 20px 10px rgba(11, 94, 215, .4);
+} 
+input
+{
+    color: #0B5ED7;
+}
+.navbar
+{
+    box-shadow: 10px 10px 5px 5px rgba(11, 94, 215, .4);
+    color: #0B5ED7;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0;
+
+}
+.message
+{
+    height: 100vh;
+    background-color: black;
+}
+.cont
+{
+    background-color: #0B5ED7;
+    width: 50%;
+    color: white;
+    
+}
+.signUp
+{
+    cursor: pointer;
+}
+.logIn
+{
+    cursor: pointer;
+}
